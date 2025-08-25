@@ -56,9 +56,11 @@ body {
   width: 60px;
   height: auto;
 }
-
 /* Header title */
-.site-header h1 {
-  font-size: 32px;
-  margin: 0;
+.site-header {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
+
